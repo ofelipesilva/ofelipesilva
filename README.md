@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <div>
 <a href="https://instagram.com/ofellipesilvaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ofelipesilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:silva.jfelipe@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0072C6?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
