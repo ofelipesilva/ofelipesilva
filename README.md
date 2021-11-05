@@ -1,5 +1,18 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is João Felipe!
+- 📚 Mathematics Undergraduate @ UFPE.
+
+- 🌱 Learning TDD and advanced Django.
+
+- 🤯 Going through LeetCode.
+
+- 🔍 Looking for some Django projects to work on.
+
+- 🔮 kubernetes is next, also reviewing JavaScript.
+
+- 📫 How to reach me: you can email me @ silva.jfelipe@hotmail.com
+
+- ⚡ Fun fact: my goal is to one day be a math/developing teacher.
 <!--
 **ofelipesilva/ofelipesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
