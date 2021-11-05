@@ -10,7 +10,7 @@
 
 - 🔮 kubernetes is next, also reviewing JavaScript.
 
-- 📫 How to reach me: you can email me @ silva.jfelipe@hotmail.com
+- 📫 Uou can email me @ silva.jfelipe@hotmail.com.
 
 - ⚡ Fun fact: my goal is to one day be a math/developing teacher.
 <!--
@@ -46,6 +46,5 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/ofelipesilva">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipesilva&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofelipesilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipesilva&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofelipesilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
